@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustycastro&label=Profile%20views&color=0e75b6&style=flat" alt="gustycastro" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js Node.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js**
 
 - 📫 Connect with me
 
